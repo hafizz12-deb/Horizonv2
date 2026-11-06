@@ -1,5 +1,10 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+.local/
+.gradle/
+target/
+upstream/
+dist/
+*.apk
+*.aab
+*.keystore
+*.jks
+.env
